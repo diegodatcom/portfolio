@@ -1,2 +1,2 @@
-# portfolio
-Portfolio
+# Discord Bot
+Discord Bot
